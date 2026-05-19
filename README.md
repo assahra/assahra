@@ -1,16 +1,57 @@
-## Hi there 👋
+# Assahra Global Academy
 
-<!--
-**assahra/assahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Website profil dan landing page Assahra Global Academy.
 
-Here are some ideas to get you started:
+## Tentang Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Website ini dibuat untuk menampilkan informasi program belajar Assahra Global Academy, meliputi:
+
+- Tahsin & Tahfizh Al-Qur’an
+- English Club
+- Calistung
+- Matematika
+- Bahasa Arab
+- Taekwondo
+- Persiapan Masuk Pesantren
+
+## Fitur
+
+- Landing page responsive
+- Navbar desktop dan mobile
+- Section program unggulan
+- Detail kelas dengan modal
+- Testimoni
+- FAQ
+- Link WhatsApp
+- Meta SEO dan Open Graph
+- Favicon
+
+## Teknologi
+
+Website ini dibuat menggunakan:
+
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS CDN
+- Alpine.js
+- AOS Animation
+
+## Struktur File
+
+```text
+.
+├── index.html
+├── about.html
+├── privacy-policy.html
+├── snk.html
+├── style.css
+├── script.js
+├── assets/
+│   └── images/
+│       ├── dekorasi/
+│       └── favicon/
+└── README.md
+
+Author
+Assahra Global Academy
